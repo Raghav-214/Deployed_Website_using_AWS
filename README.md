@@ -1,6 +1,6 @@
 # Deployed a Website using AWS
 
-1. 	Creation of Website
+1. 	 Code of Website which I'm Deploying
     ![image](https://user-images.githubusercontent.com/111916876/226386144-3f332591-af9a-4c20-be9f-04e12ee3ce86.png)
     
 2. Created Account On AWS
